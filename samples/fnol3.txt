@@ -1,0 +1,18 @@
+Policy Number: HOSP-00012
+Policyholder: Raj Kumar
+Effective Dates: 2024-02-01 to 2025-02-01
+
+Incident Date: 05/09/2025
+Incident Time: 09:30
+Location: Office premises, Sector 12
+Description: Slip and fall at workplace causing leg fracture. Hospitalized.
+
+Claimant: Raj Kumar
+Contact: rajk@example.com / +919123456789
+
+Asset Type: property
+Asset ID: Office-12
+Estimated Damage: INR 90,000
+Claim Type: injury
+Attachments: hospital_report.pdf
+Initial Estimate: 90000

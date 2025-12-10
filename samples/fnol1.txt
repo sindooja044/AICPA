@@ -1,0 +1,18 @@
+Policy Number: POL-2024-0001
+Policyholder: John Doe
+Effective Dates: 2024-01-01 to 2025-01-01
+
+Incident Date: 30/11/2025
+Incident Time: 14:35
+Location: MG Road, Hyderabad
+Description: Insured's car skidded and hit a lamp post. No injuries. No sign of foul play.
+
+Claimant: John Doe
+Contact: john@example.com / +919876543210
+
+Asset Type: vehicle
+Asset ID: TS-09-AB-1234
+Estimated Damage: INR 18,000
+Claim Type: vehicle
+Attachments: photos attached
+Initial Estimate: 18000

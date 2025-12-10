@@ -1,0 +1,18 @@
+Policy Number: POL-2023-5555
+Policyholder: Alice Smith
+Effective Dates: 2023-06-01 to 2024-06-01
+
+Incident Date: 15-10-2024
+Incident Time: 02:10
+Location: Near ABC Mall
+Description: Claimant states vehicle was stolen and later found severely damaged. Some details appear inconsistent with witness statements.
+
+Claimant: Alice Smith
+Contact: alice@example.com / +447700900000
+
+Asset Type: vehicle
+Asset ID: KA-01-XYZ-9999
+Estimated Damage: INR 120000
+Claim Type: vehicle
+Attachments: police_report.pdf, photos
+Initial Estimate: 120000
